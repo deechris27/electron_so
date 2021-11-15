@@ -1,4 +1,4 @@
-Eletron app with react js for stackoverflow solutn
+Eletron app with react js for stackoverflow solution
 
 npm install
 
